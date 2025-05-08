@@ -1,46 +1,31 @@
-# Payment Gateway Integration
+🌍 HANDAL - Site d'Aide et de Soutien
+HANDAL est une plateforme en ligne dédiée à l'aide humanitaire, au boycott des produits israéliens, et à la promotion des produits tunisiens. Le site a pour objectif de sensibiliser et de soutenir le peuple palestinien, notamment en facilitant les collectes de fonds pour Gaza.
 
-## Introduction
-<img width="100%" src="assets/1.png">
-<img width="100%" src="assets/2.png">
+✨ Objectifs du projet
+🌱 Encourager l'achat de produits tunisiens pour soutenir l'économie locale.
 
-> <b><em>Task:</b></em> Developing A responsive Donation Website comprising of Payment Gateway Integration through Razorpay for donating any specific amount of money directly to "Bridge The Gap" Initiative.
+🚫 Promouvoir le boycott des produits israéliens dans le but de soutenir la cause palestinienne.
 
-## Tech Stack & Hosting
-<img width="100%" src="assets/4.png">
+💖 Faciliter la collecte de dons pour aider la population de Gaza à travers des actions solidaires.
 
-## About:
-<img width="90%" src="assets/3.png">
+📢 Sensibiliser et mobiliser autour de la cause palestinienne en offrant une plateforme d'action et d'informations.
 
-> <h3>Project name: <em>Bridge The Gap</em></h3>
-> <h3><em>Website link: </em> https://bridgethegap01.netlify.app/ </h3>
+🚀 Fonctionnalités principales
+🛍️ Encouragement à acheter des produits tunisiens et promouvoir les entreprises locales.
 
-## Screenshots and gifs of the website:
+🚫 Section dédiée au boycott des produits israéliens, avec une liste de produits et marques à éviter.
 
-:heavy_check_mark: Home
-<img width="100%" src="assets/home.jpg">
+💸 Collecte de fonds pour Gaza : un espace sécurisé permettant aux utilisateurs de faire des dons pour soutenir la population de Gaza.
 
-:heavy_check_mark: Mission
-<img width="100%" src="assets/mission.jpg">
+📰 Actualités et sensibilisation : publication régulière d'articles sur la situation en Palestine et les initiatives de solidarité.
 
-:heavy_check_mark: Our Work
-<img width="100%" src="assets/our-work-animation.gif">
+📢 Campagnes de sensibilisation et de soutien : possibilité de participer à des campagnes en ligne pour faire entendre la voix de la Palestine.
 
-:heavy_check_mark: Donors
-<img width="100%" src="assets/donors-animation.gif">
+🛠️ Technologies utilisées
+Frontend : HTML, CSS, JavaScript 
+Backend : Node.js 
+Base de données : MySQL
+Paiement sécurisé : Intégration de solutions comme Stripe ou PayPal pour la collecte de fonds
+API : Intégration d'APIs pour l'actualisation des informations et la gestion des dons.
 
-:heavy_check_mark: About us
-<img src="assets/about-us2.jpg">
-
-:money_with_wings: Razorpay payment button on the home page allows you to donate any sum of money through various payment options
-<img width="100%" src="assets/payment1.jpg">
-<img width="100%" src="assets/payment2.jpg">
-<img width="100%" src="assets/payment3.jpg">
-
-:email: E-mail received on succesful transaction
-<img width="100%" src="assets/receipt-mail.jpg">
-
-:iphone: Responsive view on mobile <br>
-<img src="assets/responsive-view.jpg">
-
-<h3>THANK YOU for visiting my repository :relaxed:</h3>
+![Logo de HANDAL](site.png)
